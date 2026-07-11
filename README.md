@@ -1,4 +1,4 @@
-
+![Executive Summary](Dashboard%20images/Executive%20Summary.png)
 
 # Customer_Churn_Analysis
 End-to-end Customer Churn Analysis using Python, SQL Server and Power BI.
